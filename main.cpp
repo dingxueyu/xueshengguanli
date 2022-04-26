@@ -12,6 +12,7 @@ int main()
     {
         cout << word << " ";
     }
+    cout << '1' <<endl;
     cout << endl;
     system("pause");
     return 0;
